@@ -1,0 +1,120 @@
+body{
+    background-color: black ;
+    color: white;
+    text-align: center;
+}
+a{
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    text-decoration: underline overline red;
+    color: white;
+}
+button{
+    color: black;
+}
+h1{
+    text-align: center;
+    background-color: red;
+}
+h2{
+    border:double red;
+}
+h3{
+    text-decoration:underline white;
+    background-color:red;
+    width: 20%;
+    margin-left: 40%;
+}
+p{
+    text-align: left;
+}
+.menu{
+    text-align: center;
+}
+.personnage p{
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+    border:9px ridge white;
+}
+.personnage a{
+    display: inline-block;
+    width: 20%;
+}
+.personnage{
+    width: 60%;
+    margin-left: 20%;
+}
+.personnage img{
+     border:9px ridge white;
+     width: 110%;
+}
+.personnage2 p{
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+    border:9px ridge white;
+}
+.personnage2 a{
+    display: inline-block;
+    width: 20%;
+}
+.personnage2{
+    width: 60%;
+    margin-left: 20%;
+}
+.personnage2 img{
+     border:9px ridge white;
+     width: 100%;
+}
+.createur{
+    border:9px ridge white;
+    width: 50%;
+    margin-left: 25%;
+}
+.pied p1{
+    display:inline-block;
+    text-align: left;
+    width: 35%;
+    margin-left: 10%;
+    text-decoration: underline white;
+}
+.pied p2{
+    display: inline-block;
+    text-align: right;
+    width: 35%;
+    margin-right: 10%;
+    text-decoration: underline white;
+}
+.tete{
+    text-align: center;
+    background-color: red;
+}
+.opm1 img{
+    width:70%;
+}
+.mp100 img{
+    width:70%;
+}
+.opm1{
+    width: 20%;
+    display: inline-block;
+}
+.mp100{
+    width: 20%;
+    display: inline-block;
+}
+.para{
+    text-align: center;
+    width: 54%;
+    margin-left: 23%;
+}
+.paraone{
+    text-align: center;
+    width: 54%;
+    margin-left: 23%;
+    text-align: left;
+    border:9px ridge white;
+}
